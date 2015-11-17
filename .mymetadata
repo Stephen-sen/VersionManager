@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="VersionManager"
+  id="myeclipse.1446687146977"
+  context-root="/VersionManager"
+  j2ee-spec="6.0"
+  archive="VersionManager.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

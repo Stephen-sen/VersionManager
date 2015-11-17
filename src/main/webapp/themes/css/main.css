@@ -1,0 +1,127 @@
+
+.pagebar {padding:1%; width:98%; display:block; float:left;}
+.pagebar td { line-height: 25px; border:none; }
+
+/**
+ * 以下是按钮样式
+ */
+.btn-small {
+  padding: 4px 10px;
+  font-size: 12px;
+   background-color:5b716f;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+}
+
+.btn-default {
+  text-align:center;
+  padding: 8px 10px;
+  font-size: 12px;
+  background-color:5b716f;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+.btn-mini {
+    padding: 2px 8px;
+    font-size: 11px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.btn-large{
+  padding: 11px 19px;
+  font-size: 17.5px;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
+
+.btn1:link,.btn1:visited{
+	background-image:url("../images/btn_green.gif");
+	background-position:center;
+	background-repeat:repeat-x;
+	color:white;
+}
+.btn2:link,.btn2:visited{
+	background-image:url("../images/btn_gray.gif");
+	background-position:center;
+	background-repeat:repeat-x;
+	color:black;
+}
+
+.btn1:hover{
+	background-image:url("../images/btn_green_hover.gif");
+	background-position:center;
+	background-repeat:repeat-x;
+	color:white;
+}
+.btn2:hover{
+	background-image:url("../images/btn_gray_hover.gif");
+	background-position:center;
+	background-repeat:repeat-x;
+	color:blank;
+}
+
+.full {width: 100%;}
+.half {width: 50%;}
+.width-p015 {width: 1.5%;}
+.width-p005 {width: 0.5%;}
+.width-p01 {width: 1%;}
+.width-p02 {width: 2%;}
+.width-p03 {width: 3%;}
+.width-p04 {width: 4%;}
+.width-p05 {width: 5%;}
+.width-p07 {width: 7%;}
+.width-p08 {width: 8%;}
+.width-p10 {width: 10%;}
+.width-p15 {width: 15%;}
+.width-p16 {width: 16%;}
+.width-p17 {width: 17%;}
+.width-p18 {width: 18%;}
+.width-p20 {width: 20%;}
+.width-p22 {width: 22%;}
+.width-p23 {width: 23%;}
+.width-p24 {width: 24%;}
+.width-p25 {width: 25%;}
+.width-p30 {width: 30%;}
+.width-p35 {width: 35%;}
+.width-p40 {width: 40%;}
+.width-p45 {width: 45%;}
+.width-p50 {width: 50%;}
+.width-p55 {width: 55%;}
+.width-p57 {width: 57%;}
+.width-p54 {width: 54%;}
+.width-p60 {width: 60%;}
+.width-p65 {width: 65%;}
+.width-p70 {width: 70%;}
+.width-p73 {width: 73%;}
+.width-p74 {width: 74%;}
+.width-p75 {width: 75%;}
+.width-p80 {width: 80%;}
+.width-p85 {width: 85%;}
+.width-p90 {width: 90%;}
+.width-p95 {width: 95%;}
+.width-p100 {width: 100%;}
+.width-10 {width: 10px;}
+.width-20 {width: 20px;}
+.width-30 {width: 30px;}
+.width-40 {width: 40px;}
+.width-50 {width: 50px;}
+.width-60 {width: 60px;}
+.width-70 {width: 70px;}
+.width-80 {width: 80px;}
+.width-90 {width: 90px;}
+.width-100 {width: 100px;}
+.width-150 {width: 150px;}
+.width-200 {width: 200px;}
+.width-250 {width: 250px;}
+.width-300 {width: 300px;}
+.width-400 {width: 400px;}
+.width-600 {width: 600px;}
+.width-500 {width: 500px;}
+.width-550 {width: 550px;}
+.width-600 {width: 600px;}
